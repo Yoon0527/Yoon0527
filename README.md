@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0527&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon0527&layout=compact)
 <!--
 **Yoon0527/Yoon0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
