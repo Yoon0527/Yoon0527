@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=welcome-nl-YoungJun's%20GitHub👋&height=200&animation=twinkling&fontsize=40)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0527&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon0527&layout=compact)
 
 ### 🛠 Languages and Tools
