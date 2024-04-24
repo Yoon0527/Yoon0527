@@ -8,7 +8,7 @@
 
 <div align=center>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoon0527&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yoon0527&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon0527&layout=compact)
 ### 🛠 Languages and Tools
